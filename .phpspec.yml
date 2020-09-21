@@ -1,0 +1,4 @@
+suites:
+    global:
+        namespace: Aa\InOut
+        psr4_prefix: Aa\InOut
